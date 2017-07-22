@@ -1,7 +1,9 @@
 # Avatar
 
 Avatar screen 
- 
+
+![alt text](https://github.com/chawkiAmrouche/Avatar/blob/master/Avatar1.png)
+
 ### motivation
 
 Neat,clean and beautiful Designs needs to be alive
